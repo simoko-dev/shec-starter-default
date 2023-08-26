@@ -16,7 +16,7 @@
     {
       "id": "test-region-ap",
       "name": "AP",
-      "currency_code": "eur",
+      "currency_code": "twd",
       "tax_rate": 0,
       "payment_providers": [
         "manual"
